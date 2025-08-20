@@ -1,5 +1,10 @@
 # Nombre del Proyecto
 
+# Integrantes 
+Vanessa Ocampo 
+Andres Felipe Portillo 
+Juan David Noriega 
+
 ## Descripción
 Descripción del proyecto y su propósito.
 
