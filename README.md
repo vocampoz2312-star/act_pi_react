@@ -3,7 +3,7 @@
 # Integrantes 
 Vanessa Ocampo 
 Andres Felipe Portillo 
-Juan David Noriega 
+Juan David Noriega Duarte
 
 ## Descripción
 Descripción del proyecto y su propósito.
