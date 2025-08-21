@@ -2,7 +2,7 @@
 
 # Integrantes 
 Vanessa Ocampo 
-Andres Felipe Portillo 
+Andres Felipe Portillo Rodiño
 Juan David Noriega 
 
 ## Descripción
