@@ -16,6 +16,10 @@ La aplicación está pensada para entornos académicos, profesionales o personal
 - Lista de funcionalidades principales
 - Tecnologías utilizadas
 
+Para el desarrollo de nuestra página de gestión de tareas podemos implementar diferentes tecnologías según las necesidades del proyecto. En el frontend , que corresponde a la parte visual e interactiva de la aplicación, utilizamos tecnologías básicas como HTML, CSS y JavaScript , y podemos apoyarnos en librerías y frameworks modernos como React.js , Vue.js o Angular , que nos permiten crear interfaces dinámicas y modulares. Para el diseño y la experiencia visual empleamos herramientas como Tailwind CSS , Bootstrap o Material UI , que facilitan la construcción de interfaces atractivas y responsivas.
+
+En el backend , encargado de la lógica del sistema y la gestión de la aplicación, contamos con varias alternativas. Una de las más utilizadas es Node.js con Express , que nos permite construir API de manera rápida y eficiente. También podemos usar frameworks como Django en Python o Spring Boot en Java, que ofrecen soluciones más estructuradas y completas para aplicaciones de mayor complejidad.
+
 ## Registro de Avances por Clase
 **Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
 
