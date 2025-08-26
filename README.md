@@ -14,6 +14,13 @@ La aplicación está pensada para entornos académicos, profesionales o personal
 
 ## Características
 - Lista de funcionalidades principales
+-Registro e inicio de sesión (con autenticación).
+-Creación y gestión de tareas
+-Crear, editar y eliminar tareas.
+-Asignar responsables a cada tarea.
+-Establecer prioridades (alta, media, baja).
+-Establecer estados (pendiente, en progreso, completada, bloqueada).
+-Organización de tareas
 - Tecnologías utilizadas
 
 Para el desarrollo de nuestra página de gestión de tareas podemos implementar diferentes tecnologías según las necesidades del proyecto. En el frontend , que corresponde a la parte visual e interactiva de la aplicación, utilizamos tecnologías básicas como HTML, CSS y JavaScript , y podemos apoyarnos en librerías y frameworks modernos como React.js , Vue.js o Angular , que nos permiten crear interfaces dinámicas y modulares. Para el diseño y la experiencia visual empleamos herramientas como Tailwind CSS , Bootstrap o Material UI , que facilitan la construcción de interfaces atractivas y responsivas.
