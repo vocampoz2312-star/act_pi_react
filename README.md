@@ -2,7 +2,7 @@
 TaskFlow
 
 # Integrantes 
-Vanessa Ocampo 
+Vanessa Ocampo Zapata
 Andres Felipe Portillo Rodiño
 Juan David Noriega Duarte
 
@@ -20,9 +20,9 @@ La aplicación está pensada para entornos académicos, profesionales o personal
 **Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
 
 ### Clase 1
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [25/08/2025]
 - **Objetivos**:
-  - [Objetivo 1]
+  - [Objetivo 1] Dejar claro la descripción y funcionalidad del proyecto.
   - [Objetivo 2]
 - **Avances**:
   - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
