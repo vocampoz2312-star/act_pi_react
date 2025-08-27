@@ -3,7 +3,7 @@ TaskFlow
 
 # Integrantes 
 Vanessa Ocampo Zapata
-Andres Felipe Portillo Rodiño
+Andres Portillo
 Juan David Noriega Duarte
 
 ## Descripción
