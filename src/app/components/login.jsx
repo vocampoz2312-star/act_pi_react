@@ -1,4 +1,3 @@
-// src/app/components/Login.jsx
 "use client";
 
 import { useState } from "react";
