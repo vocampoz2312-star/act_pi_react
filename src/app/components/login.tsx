@@ -2,10 +2,16 @@
 
 import { useState } from "react";
 import { LogIn } from "lucide-react"; // librería de iconos moderna (lucide)
+import type { FormEvent } from "react";
 
-export default function Login({ onLogin }) {
-  const [usuario, setUsuario] = useState("");
-  const [password, setPassword] = useState("");
+// Definimos la interfaz de props
+interface LoginProps {
+  onLogin: (usuario: string) => void;
+}
+
+export default function Login({ onLogin }: LoginProps) {
+  const [usuario, setUsuario] = useState<string>(""); 
+  const [password, setPassword] = useState<string>("");
 
   // credenciales quemadas (ejemplo)
   const credenciales = {
@@ -13,7 +19,7 @@ export default function Login({ onLogin }) {
     password: "1234",
   };
 
-  const manejarLogin = (e) => {
+  const manejarLogin = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
     if (usuario === credenciales.usuario && password === credenciales.password) {
