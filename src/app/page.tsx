@@ -17,7 +17,7 @@ export default function Home() {
       {/* Header */}
       <header className="absolute top-4 left-6 flex items-center space-x-2">
         <div className="w-8 h-8 bg-[#04709e] rounded-md flex items-center justify-center text-white font-bold">
-          IMG
+          <img src="https://img.icons8.com/?size=100&id=gSHe5TwcX868&format=png&color=000000" alt="" />
         </div>
         <h1 className="text-lg font-bold text-white">
           <span className="text-[#90b9d3]">Gestor de tareas</span>
