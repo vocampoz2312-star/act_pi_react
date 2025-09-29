@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { UserButton } from "@clerk/nextjs";
-import Statistics from "./components/Statistics"
+import Statistics from "./components/Statistics";
 
 type Task = {
   id: string;
