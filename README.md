@@ -19,7 +19,7 @@ La aplicación está pensada para entornos académicos, profesionales o personal
 -Crear, editar y eliminar tareas.
 -Asignar responsables a cada tarea.
 -Establecer prioridades (alta, media, baja).
--Establecer estados (pendiente, en progreso, completada, bloqueada).
+-Establecer estados (pendiente, en progreso, completada).
 -Organización de tareas
 - Tecnologías utilizadas
 
@@ -36,10 +36,10 @@ En el backend , encargado de la lógica del sistema y la gestión de la aplicaci
   - [Objetivo 1] Dejar claro la descripción y funcionalidad del proyecto.
   - [Objetivo 2]
 - **Avances**:
-  - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - ✅ [Tarea completada 1: Página de incio y estructura del código, planeación de como quedaría la página y su funcionalidad] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
   - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **En progreso**:
-  - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - 🔄 [Tarea en progreso: Inicialización de codigo de funciones e inicio de sesión] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **Pendiente**:
   - ⏳ [Tarea pendiente] - Responsable: [Nombre]
 - **Notas**:
@@ -67,7 +67,7 @@ En el backend , encargado de la lógica del sistema y la gestión de la aplicaci
 ## Contacto
 ### Información del Grupo
 - **Institución**: SENA
-- **Programa**: [Nombre del programa]
-- **Ficha**: [Número de ficha]
-- **Instructor**: [Nombre del instructor]
-- **Período**: [Año - Trimestre]
+- **Programa**: [Análisis y desarrollo de software]
+- **Ficha**: [3114227]
+- **Instructor**: [Jhon Fredy Valencia]
+- **Período**: [2025 - 3]
