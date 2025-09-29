@@ -17,7 +17,6 @@ La aplicación está pensada para entornos académicos, profesionales o personal
 -Registro e inicio de sesión (con autenticación).
 -Creación y gestión de tareas
 -Crear, editar y eliminar tareas.
--Asignar responsables a cada tarea.
 -Establecer prioridades (alta, media, baja).
 -Establecer estados (pendiente, en progreso, completada, bloqueada).
 -Organización de tareas
