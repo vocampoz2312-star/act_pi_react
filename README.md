@@ -39,9 +39,11 @@ En el backend , encargado de la lógica del sistema y la gestión de la aplicaci
   - ✅ [Tarea completada 1: Estructura base del componente Home.jsx creada con React + JSX.] - Responsable: [Vanessa] - Commit: [estructura inicial de la página principal con JSX]
   - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **En progreso**:
-  - 🔄 [Tarea en progreso: Integración de TailwindCSS y aplicación de la paleta de colores personalizada (fondo negro + tonos azules).] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - 🔄 [Tarea en progreso: Integración de TailwindCSS y aplicación de la paleta de colores personalizada (fondo negro + tonos azules).] 
+  - [Implementación de navegación funcional para botones (ejemplo: “Empezar ahora →” y selección de categorías).]
+  - Responsable: [Nombre] - Commit: [agregar rutas con React Router para los botones principales]
 - **Pendiente**:
-  - ⏳ [Tarea pendiente] - Responsable: [Nombre]
+  - ⏳ [Tarea pendiente] Crear un modo claro/oscuro con toggle para mejorar la accesibilidad visual. - Responsable: [Nombre]
 - **Notas**:
   - [Descripción de problemas, soluciones o decisiones tomadas]
 
