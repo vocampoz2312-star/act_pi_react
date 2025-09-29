@@ -26,9 +26,11 @@ export default function Home() {
 
       {/* Botones superiores */}
       <div className="absolute top-4 right-6 flex space-x-3">
-        <button className="px-4 py-2 bg-[#04709e] text-white rounded-xl hover:bg-[#04547e]">
-          Empezar ahora →
-        </button>
+        <Link href="/sign-in">
+          <button className="px-4 py-2 bg-[#04709e] text-white rounded-xl hover:bg-[#04547e]">
+            Iniciar Sesión →
+          </button>
+        </Link>
       </div>
 
       {/* Contenido central */}
@@ -57,9 +59,9 @@ export default function Home() {
 
         {/* Botón inferior */}
 
-        <Link rel="stylesheet" href="/auth/login" >
+       <Link rel="stylesheet" href="/sign-up" >
           <button className="px-6 py-3 bg-[#04709e] text-white text-lg font-semibold rounded-2xl hover:bg-[#04547e] shadow-md">
-            Empezar ahora →
+            Registrarme →
           </button>
         </Link>
       </main>
