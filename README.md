@@ -33,12 +33,13 @@ En el backend , encargado de la lógica del sistema y la gestión de la aplicaci
 - **Fecha**: [25/08/2025]
 - **Objetivos**:
   - [Objetivo 1] Dejar claro la descripción y funcionalidad del proyecto.
-  - [Objetivo 2]
+  - [Objetivo 2] Diseñar una página inicial atractiva para el gestor de tareas con estilo moderno y paleta personalizada.
+  - [Objetivo 3] Implementar botones y secciones interactivas para la selección de categorías de gestión, manteniendo coherencia visual con el branding.
 - **Avances**:
-  - ✅ [Tarea completada 1: Página de incio y estructura del código, planeación de como quedaría la página y su funcionalidad] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - ✅ [Tarea completada 1: Estructura base del componente Home.jsx creada con React + JSX.] - Responsable: [Vanessa] - Commit: [estructura inicial de la página principal con JSX]
   - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **En progreso**:
-  - 🔄 [Tarea en progreso: Inicialización de codigo de funciones e inicio de sesión] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - 🔄 [Tarea en progreso: Integración de TailwindCSS y aplicación de la paleta de colores personalizada (fondo negro + tonos azules).] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
 - **Pendiente**:
   - ⏳ [Tarea pendiente] - Responsable: [Nombre]
 - **Notas**:
